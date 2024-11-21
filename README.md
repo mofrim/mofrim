@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **opensource projects**
 - 🤔 I’m looking for help with **fixing my 2 broken bikes**
 - 💬 Ask me about **climbing around Göttingen, snow in the Alps**
-- ⚡ Fun fact: **my first linux distro... Slakware 3.6.0 with kernel 2.0.35 🤯**
+- ⚡ Fun fact: **my first linux distro... Slackware 3.6.0 with kernel 2.0.35 🤯**
