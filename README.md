@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on **carpentry & coding :)**
-- 🌱 I’m currently learning **to code professionally @42 & lots of other things
+- 🌱 I’m currently learning **to code professionally @42Wolfsburg & lots of other things
   every day**
-- 👯 I’m looking to collaborate on **opensource projects**
-- 🤔 I’m looking for help with **fixing my 2 broken bikes**
+- 👯 I’m looking to create / collaborate on **opensource projects**
 - 💬 Ask me about **climbing around Göttingen, snow in the Alps**
 - ⚡ Fun fact: **my first linux distro... Slackware 3.6.0 with kernel 2.0.35 🤯**
+- 🤷 I am currently in the process of moving to [Codeberg](https://codeberg.org) as my main Online-Git-Platform
